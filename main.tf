@@ -97,7 +97,7 @@ resource "aws_security_group" "allow_web" {
   }
 
   tags = {
-    Name = "allow_web"
+    Name = "Allow_web"
   }
 }
 
