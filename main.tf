@@ -139,6 +139,6 @@ resource "aws_instance" "my-first-server" {
        EOF
 
   tags = {
-    Name = "Web-server"
+    Name = "WebServer"
   }
 }
